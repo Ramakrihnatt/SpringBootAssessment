@@ -59,6 +59,6 @@ All secured endpoints require a valid JWT in the `Authorization` header:
 
 ### Steps
 1. Clone the project:
-git clone https://github.com/madhukrishnaonline/UserManagementService.git
+git clone https://github.com/madhukrishnaonline/UserManagement-Microservice.git
 
 ##The application will start on http://localhost:8989
