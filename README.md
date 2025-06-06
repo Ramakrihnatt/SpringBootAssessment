@@ -1,4 +1,4 @@
-#User Management System - Spring Boot Microservice
+#SpringBootAssignment - Spring Boot Microservice
 --------------------------------------------------
 This is a secure User Management REST API built with **Spring Boot**, **Spring Security**, and **JWT authentication**. 
 It supports role-based access control and provides secured endpoints for user-related operations.
